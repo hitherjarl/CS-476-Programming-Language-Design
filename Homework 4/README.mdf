@@ -1,0 +1,12 @@
+# HW4 – Interpreters and Exceptions
+
+CS 476, Fall 2018
+Due Oct. 5 at 2 PM
+1 Instructions
+Begin by downloading the file hw4-base.ml from the course website, and renaming it to
+hw4.ml. This file contains the functions that you will use and modify in the homework.
+You should not need to define any new functions, or change any functions other than
+step cmd. Submit your completed hw4.ml via Gradescope. As always, please don’t
+hesitate to ask for help on Piazza (https://piazza.com/class/jkh8q52qrh06v).
+
+** The rest of the Description is on https://www2.cs.uic.edu/~mansky/teaching/cs476/fa18/hw4.pdf **
